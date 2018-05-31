@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.mycartracks.com">
-    <img height="76" src="https://lh3.googleusercontent.com/1diEAJEBvTH8Gg7MYK_NtWSnR8I-ewRcvXstOdWt2bPMiaPh85vFohlWAMpO2IWXVpw=s180-rw"/>
+    <img height="76" src="https://help.mycartracks.com/wp-content/uploads/2016/03/MCTlogotyp_farba.png"/>
   </a>
 </p>
 
