@@ -5,7 +5,7 @@
 </p>
 
 
-# MyCarTracks app [![Join the chat at https://gitter.im/MyCarTracks/Lobby](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/MyCarTracks/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)(https://gitter.im/MyCarTracks/Lobby)
+# MyCarTracks Web & App [![Join the chat at https://gitter.im/MyCarTracks/Lobby](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/MyCarTracks/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Reliable smartphone based vehicle tracking.
 
